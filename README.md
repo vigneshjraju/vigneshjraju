@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [vjr5.wordpress.com](vjr5.wordpress.com)
 
-- ⚡ Fun fact **I Think iam funny! you know why? #BECAUSE I'M BATMAN#**
+- ⚡ Fun fact **I Think iam funny! you know why? BECAUSE I'M BATMAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
