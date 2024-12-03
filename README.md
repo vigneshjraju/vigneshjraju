@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm VIGNESH J RAJU</h1>
 <h3 align="center">Industrial Engineer Exploring the World of Web Development</h3>
 
+<center>
+<img src="Photo 2.jpeg" alt="photo"height="400" >
+</center>
+
 - 🌱 I’m currently learning **A full-stack web developement and Mern stack**
 
 - 👨‍💻 All of my projects are available at [vjr5.wordpress.com](vjr5.wordpress.com)
