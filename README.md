@@ -5,15 +5,20 @@
 <img src="Photo 2.jpeg" alt="photo"height="400" >
 </center>
 
+<p>
+
 - 🌱 I’m currently learning **A full-stack web developement and Mern stack**
 
-- 👨‍💻 All of my projects are available at [vjr5.wordpress.com](vjr5.wordpress.com)
+- 👨‍💻 All of my projects are available at <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a>
 
-- 📫 How to reach me **vigneshjraju@gmail.com**
 
-- 📄 Know about my experiences [vjr5.wordpress.com](vjr5.wordpress.com)
+- 📫 How to reach me <a href="mailto:vigneshjraju@gmail.com">vigneshjraju@gmail.com </a>
 
-- ⚡ Fun fact **I Think iam funny! you know why? BECAUSE I'M BATMAN**
+- 📄 Know about my experiences  <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a>
+
+- ⚡ Fun fact *** I Think iam funny! you know why? BECAUSE I'M BATMAN ***
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
