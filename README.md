@@ -32,15 +32,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/cpp/"> <img src="C++.png" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/"> <img src="html.png" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.python.org" > <img src="Python.png" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/"> <img src="html.png" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" > <img src="CSS.webp" alt="CSS" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" > <img src="Tailwind.png" alt="Tailwind" width="40" height="40"/> </a> 
     <a href="https://www.python.org" > <img src="Javascript.png" alt="JS" width="40" height="40"/> </a>
     <a href="https://www.python.org" > <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a>  
-    <a href="https://www.python.org" > <img src="React.png" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" > <img src="React.png" alt="Reactjs" width="40" height="40"/> </a> 
     <a href="https://www.python.org" > <img src="Docker.svg" alt="Docker" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" > <img src="CSS.webp" alt="Docker" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" > <img src="Docker.svg" alt="Docker" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" > <img src="Tailwind.png" alt="Docker" width="40" height="40"/> </a> 
 
 </p>
 
