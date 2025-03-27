@@ -12,14 +12,14 @@
 
 - 🌱 I’ve completed  **Full-stack web developement and Mern stack and am currently learning Blockchain Technology.**
 
-- 👨‍💻 All of my projects are available at <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a> -->
 
 
 - 📫 How to reach me <a href="mailto:vigneshjraju@gmail.com">vigneshjraju@gmail.com </a>
 
-- 📄 Know about my experiences  <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a>
+<!-- - 📄 Know about my experiences  <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a> -->
 
-- ⚡ Fun fact *** I Think iam funny! you know why? BECAUSE I'M BATMAN ***
+<!-- - ⚡ Fun fact *** I Think iam funny! you know why? BECAUSE I'M BATMAN *** -->
 
 </p>
 
