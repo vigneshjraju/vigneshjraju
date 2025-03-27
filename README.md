@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vigneshjraju"><img align="center" src="Linkedln.png" alt="www.linkedin.com/in/vigneshjraju" height="40" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vignesh_j_r/" ><img align="center" src="Instagram.png" alt="https://www.instagram.com/vignesh_j_r/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vigneshjraju"><img align="center" src="Linkedln.png" alt="www.linkedin.com/in/vigneshjraju" height="40" width="40" /></a>
+<a href="https://www.instagram.com/vignesh_j_r/" ><img align="center" src="Instagram.png" alt="https://www.instagram.com/vignesh_j_r/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
