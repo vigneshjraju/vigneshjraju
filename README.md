@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’ve completed  **Full-stack web developement and Mern stack and am currently learning Blockchain Technology.**
+- 🌱 I’ve completed  **Full-stack web developement and am currently learning Blockchain Technology.**
 
 <!-- - 👨‍💻 All of my projects are available at <a href="https://vjr5.wordpress.com/">vjr5.wordpress.com </a> -->
 
