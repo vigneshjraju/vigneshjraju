@@ -4,9 +4,9 @@
 
 <p>
 
-<center>
+<!-- <center>
 <img src="Photo 2.jpeg" alt="photo"height="400" >
-</center>
+</center> -->
 
 
 
