@@ -40,6 +40,9 @@
     <a href="https://nodejs.org/en" > <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a>  
     <a href="https://react.dev/" > <img src="React.png" alt="Reactjs" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" > <img src="Docker.svg" alt="Docker" width="40" height="40"/> </a> 
+    <a href="https://soliditylang.org" > <img src="solidity.png" alt="Docker" width="40" height="40"/> </a> 
+    <a href="https://hardhat.org" > <img src="Hardhat.png" alt="Docker" width="40" height="40"/> </a> 
+    <a href="https://docs.ethers.org/v5/" > <img src="Etherjs.png" alt="Docker" width="40" height="40"/> </a>
 
 </p>
 
