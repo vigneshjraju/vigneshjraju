@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=vigneshjraju&label=Profile%20Views&icon=5&color=6)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Industrial Engineer Exploring the World of Web Development<br><br>🌱 I’ve completed Full-stack web development and recently finished a Blockchain specialization, currently advancing into Hyperledger development.<br>📫 How to reach me vigneshjraju@gmail.com
 
